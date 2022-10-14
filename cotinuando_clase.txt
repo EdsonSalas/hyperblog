@@ -3,3 +3,9 @@ hola, para aplicar los conocimentos aprendidos hasta ahora
 empezaré con la edición de este archivo
 
 y crearé dos versiones del mismo
+
+aqui explicaré a fondo cuales son los comandos que estoy usando el clase
+
+git branch desde la rama de donde quiero crear
+
+git checkout para navegar entre ramas
