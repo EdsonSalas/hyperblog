@@ -9,3 +9,6 @@ aqui explicaré a fondo cuales son los comandos que estoy usando el clase
 git branch desde la rama de donde quiero crear
 
 git checkout para navegar entre ramas
+
+haciendo cambios desde mi repositorio remoto, para probar que los cambios los pueda visalizar en mi repositorio local
+a travez de la conexion ssh
